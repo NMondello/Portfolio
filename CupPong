@@ -1,0 +1,6 @@
+
+https://www.glowscript.org/#/user/nmondello/folder/MyPrograms/program/CupPongFinalProject
+
+This game can be played by using the arrow keys or wasd. The game is played to 500 points, and it will alert you when you have won. The cups have different values and will award points based off their values.
+The goal of the game is to hit the cups and  gain points. After each hit the ball will be reset to a starting position.
+HINT: If you trying to win quickly, just target the slim cup. There are four different cups, and 1 bal. The cups bounce off of each other when they collide, and as well with the ball. All objects bounce off the walls.
